@@ -19,6 +19,7 @@ To generate speech from the input text, run the following command in the termina
 ```
 python3 tts.py
 ```
+Please note that this script should only be used for learning purposes and should not be used for scraping or other unethical activities.
 
 The script will send the input text to FPT.AI, which will generate an audio file. The link to download the file will be printed in the terminal and also saved in the `output.txt` file.
 
